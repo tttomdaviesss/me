@@ -9,4 +9,6 @@ https://design-computing.github.io/md/week1
 """
 # 👇👇 Write your code here 👇👇
 print("Hello world!")
+print("hi how are you today")
+print("how do i use emojis in my text 😂😜🤦‍♂️")
 # 👆👆 Write your code here 👆👆
